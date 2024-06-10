@@ -24,11 +24,11 @@ John Savill's Technical Training
 
     https://www.youtube.com/watch?v=0Knf9nub4-k
 
-Enterprise Skills Initiative AKA ESI (use your corporte email to login, might have to also be on corp www to use but need to verify)
+Enterprise Skills Initiative AKA ESI (use your corporte email to login, might have to also be on corporate network to use but need to verify this)
 
     https://esi.microsoft.com/
 
-Miccrosoft Info:
+Miccrosoft Learn:
 
     https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
 
