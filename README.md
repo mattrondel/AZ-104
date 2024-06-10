@@ -28,7 +28,7 @@ Study guide:
 
 https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104
 
-Skills at a glance
+Skills at a glance straight from Microsoft on AZ-104:
 
     Manage Azure identities and governance (20–25%)
 
