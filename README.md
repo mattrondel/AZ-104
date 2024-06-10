@@ -39,7 +39,7 @@ Microsoft at a glance:
 
     https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
 
-**Skills at a glance straight from Microsoft on AZ-104:**
+**Skills at a glance straight from Microsoft on AZ-104 AKA How the exam is weighted **
 
     Manage Azure identities and governance (20–25%)
 
