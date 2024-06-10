@@ -10,7 +10,7 @@ Scott Duffy
 
     https://www.udemy.com/course/70533-azure/?couponCode=NVDPRODUSV220
 
-Scott Duffy (free for WGU students)
+Scott Duffy (same as above but free for WGU students)
 
     https://wgu.udemy.com/course/70533-azure/
 
