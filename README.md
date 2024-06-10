@@ -8,7 +8,7 @@ https://portal.tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-pr
 
 Scott Duffy
 
-    https://www.udemy.com/course/70533-azure/?couponCode=NVDPRODUSV220
+    https://www.udemy.com/course/70533-azure/
 
 Scott Duffy (same as above but free for WGU students)
 
