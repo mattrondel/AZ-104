@@ -1,6 +1,6 @@
 # AZ-104
 
-Paid Courses
+**Paid Courses**
 
 Measure Up practice exams:
 
@@ -18,7 +18,7 @@ Scott Duffy (same as above but free for WGU students)
 
     https://wgu.udemy.com/course/70533-azure/
 
-Free courses:
+**Free courses:**
 
 John Savill's Technical Training
 
@@ -28,11 +28,11 @@ Info:
 
     https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
 
-Study guide:
+**Official Study guide:**
 
     https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104
 
-Skills at a glance straight from Microsoft on AZ-104:
+**Skills at a glance straight from Microsoft on AZ-104:**
 
     Manage Azure identities and governance (20–25%)
 
