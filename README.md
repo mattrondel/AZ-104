@@ -48,7 +48,7 @@ Reddit mentions of tricky areas to know (< 1 year posts)
     
     Github labs: https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/
 
-Please read the both MS Learn Materials. Looks like same, but not
+"Please read the both MS Learn Materials. Looks like same, but not"
 
     https://learn.microsoft.com/en-us/training/paths/azure-administrator-prerequisites/
     
