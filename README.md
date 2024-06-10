@@ -1,9 +1,11 @@
 # AZ-104
 
 Info:
+
 https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
 
 Study guide:
+
 https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104
 
 Skills at a glance
