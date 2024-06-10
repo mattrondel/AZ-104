@@ -2,9 +2,13 @@
 
 Paid Courses
 
-https://www.measureup.com/microsoft-practice-test-az-104-microsoft-azure-administrator.html
+Measure Up practice exams:
 
-https://portal.tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/
+    https://www.measureup.com/microsoft-practice-test-az-104-microsoft-azure-administrator.html
+
+Tutorials Dojo
+
+    https://portal.tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/
 
 Scott Duffy
 
