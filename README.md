@@ -51,6 +51,8 @@ Microsoft at a glance:
 
     Monitor and maintain Azure resources (10–15%)
 
+Need to confirm: Passing score is 700 max is 1000 ?
+
 Reddit mentions of tricky areas to know (< 1 year posts)
 
     Mindmap: https://www.reddit.com/r/AzureCertification/comments/15rp8le/az104_mindmap/
