@@ -28,13 +28,14 @@ Enterprise Skills Initiative AKA ESI (use your corporte email to login, might ha
 
     https://esi.microsoft.com/
 
-Miccrosoft Learn:
+Microsoft Learn:
 
     https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
 
 **Official Study guide:**
 
     https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104
+
 Microsoft at a glance:
 
     https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
