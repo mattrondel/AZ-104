@@ -1,5 +1,6 @@
 # AZ-104
 
+(Need to confirm) Passing score is 700 max is 1000
 
 **Skills at a glance straight from Microsoft on AZ-104 AKA How the exam is weighted **
 
@@ -53,8 +54,6 @@ Microsoft Learn:
 Microsoft at a glance:
 
     https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
-
-Need to confirm: Passing score is 700 max is 1000 ?
 
 Reddit mentions of tricky areas to know (< 1 year posts)
 
