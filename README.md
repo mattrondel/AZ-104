@@ -31,3 +31,24 @@ Skills at a glance
     Implement and manage virtual networking (15–20%)
 
     Monitor and maintain Azure resources (10–15%)
+
+Reddit mentions of tricky areas to know (< 1 year posts)
+
+    Mindmap: https://www.reddit.com/r/AzureCertification/comments/15rp8le/az104_mindmap/
+
+    "MS Learn was extremely lackluster." "for the love of God, dont rely only on MS Learn."
+    
+    Github labs: https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/
+
+Please read the both MS Learn Materials. Looks like same, but not
+
+    https://learn.microsoft.com/en-us/training/paths/azure-administrator-prerequisites/
+    
+    https://learn.microsoft.com/en-us/training/paths/az-104-administrator-prerequisites/
+    
+    Do practice with Sandboxes.
+    
+    Tutorial Dojo helped me to practice the exam to save the time.
+
+    
+    
