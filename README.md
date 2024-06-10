@@ -1,5 +1,11 @@
 # AZ-104
 
+Courses
+
+https://www.measureup.com/microsoft-practice-test-az-104-microsoft-azure-administrator.html
+
+https://portal.tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/
+
 Info:
 
 https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
