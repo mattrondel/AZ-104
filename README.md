@@ -18,15 +18,15 @@ Free courses:
 
 John Savill's Technical Training
 
-https://www.youtube.com/watch?v=0Knf9nub4-k
+    https://www.youtube.com/watch?v=0Knf9nub4-k
 
 Info:
 
-https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
+    https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
 
 Study guide:
 
-https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104
+    https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104
 
 Skills at a glance straight from Microsoft on AZ-104:
 
