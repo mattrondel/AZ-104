@@ -1,10 +1,16 @@
 # AZ-104
 
-Courses
+Paid Courses
 
 https://www.measureup.com/microsoft-practice-test-az-104-microsoft-azure-administrator.html
 
 https://portal.tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/
+
+Free:
+
+John Savill's Technical Training
+
+https://www.youtube.com/watch?v=0Knf9nub4-k
 
 Info:
 
