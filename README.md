@@ -1,5 +1,19 @@
 # AZ-104
 
+
+**Skills at a glance straight from Microsoft on AZ-104 AKA How the exam is weighted **
+
+    Manage Azure identities and governance (20–25%)
+
+    Implement and manage storage (15–20%)
+
+    Deploy and manage Azure compute resources (20–25%)
+
+    Implement and manage virtual networking (15–20%)
+
+    Monitor and maintain Azure resources (10–15%)
+
+
 **Paid Courses**
 
 Measure Up practice exams:
@@ -40,18 +54,6 @@ Microsoft at a glance:
 
     https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
 
-**Skills at a glance straight from Microsoft on AZ-104 AKA How the exam is weighted **
-
-    Manage Azure identities and governance (20–25%)
-
-    Implement and manage storage (15–20%)
-
-    Deploy and manage Azure compute resources (20–25%)
-
-    Implement and manage virtual networking (15–20%)
-
-    Monitor and maintain Azure resources (10–15%)
-
 Need to confirm: Passing score is 700 max is 1000 ?
 
 Reddit mentions of tricky areas to know (< 1 year posts)
@@ -63,6 +65,8 @@ Reddit mentions of tricky areas to know (< 1 year posts)
     Github labs: https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/
 
     "The user management questions are always worded so poorly, and some of the scenarios they present are so...hypothetical."
+
+    TD tutorials dojo practice exams are very similar to the real one
     
 
 "Please read the both MS Learn Materials. Looks like same, but not"
