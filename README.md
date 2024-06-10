@@ -14,7 +14,7 @@ Scott Duffy (free for WGU students)
 
     https://wgu.udemy.com/course/70533-azure/
 
-Free:
+Free courses:
 
 John Savill's Technical Training
 
