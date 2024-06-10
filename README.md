@@ -6,6 +6,14 @@ https://www.measureup.com/microsoft-practice-test-az-104-microsoft-azure-adminis
 
 https://portal.tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/
 
+Scott Duffy
+
+    https://www.udemy.com/course/70533-azure/?couponCode=NVDPRODUSV220
+
+Scott Duffy (free for WGU students)
+
+    https://wgu.udemy.com/course/70533-azure/
+
 Free:
 
 John Savill's Technical Training
