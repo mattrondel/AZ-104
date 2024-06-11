@@ -35,7 +35,7 @@ Scott Duffy via Udemy (same as above but free for WGU students)
 
 **Free courses:**
 
-👌 John Savill's Technical Training - This is his updated training updated on Feb 12 2024
+:fire: John Savill's Technical Training - This is his updated training updated on Feb 12 2024
 
     https://www.youtube.com/watch?v=0Knf9nub4-k
 
