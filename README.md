@@ -78,6 +78,8 @@ Reddit mentions of tricky areas to know (< 1 year posts)
         https://www.reddit.com/r/AzureCertification/comments/15rp8le/az104_mindmap/
         
         https://www.reddit.com/r/AzureCertification/comments/12vuwu1/just_passed_az900_and_az104_in_3_months/
+        
+        https://www.reddit.com/r/AzureCertification/comments/1aiar8u/i_passed_az104_some_thoughts/
     
 
 "Please read the both MS Learn Materials. Looks like same, but not"
