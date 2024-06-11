@@ -92,7 +92,8 @@ Microsoft at a glance:
     
     Tutorial Dojo helped me to practice the exam to save the time.
 
-Study tips:
+🚧 Study tips:
+
 Do like 1-2 hrs per day going through modules and the last few weeks before before sceduled exam go through practice exams. 
 The practice exams will help identify your weak areas for you to do further studying on. Try not to burn out yourself while studying and remember to take breaks.
 
