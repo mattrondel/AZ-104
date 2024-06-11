@@ -21,15 +21,15 @@ Measure Up practice exams:
 
     https://www.measureup.com/microsoft-practice-test-az-104-microsoft-azure-administrator.html
 
-:fire: Tutorials Dojo practice exams "you want to be getting at least 85-95% on the TD final exam before signing up to take the exam"
+:fire: **Tutorials Dojo practice exams** "you want to be getting at least 85-95% on the TD final exam before signing up to take the exam"
 
     https://portal.tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/
 
-Scott Duffy via Udemy
+**Scott Duffy via Udemy**
 
     https://www.udemy.com/course/70533-azure/
 
-Scott Duffy via Udemy (same as above but free for WGU students)
+**Scott Duffy via Udemy **(same as above but free for WGU students)
 
     https://wgu.udemy.com/course/70533-azure/
 
@@ -39,15 +39,15 @@ Scott Duffy via Udemy (same as above but free for WGU students)
 
     https://www.youtube.com/watch?v=0Knf9nub4-k
 
-This channel goes over a question, demonstrates in a lab environment how to accomplish what the questions asks and then answers the question. (Make sure to search for AZ-104 content as it addresses all different MSFT certs)
+Azurewala This channel goes over a question, demonstrates in a lab environment how to accomplish what the questions asks and then answers the question. (Make sure to turn up the volume to hear him)
 
-    https://www.youtube.com/@azurewala/videos
+    https://www.youtube.com/watch?v=WYscHbu4SOI&list=PLlKA5U_Yqgof3H0YWhzvarFixW9QLTr4S
 
-Enterprise Skills Initiative AKA ESI (use your corporte email to login, might have to also be on corporate network to use but need to verify this)
+**Enterprise Skills Initiative AKA ESI** (use your corporte email to login, might have to also be on corporate network to use but need to verify this)
 
     https://esi.microsoft.com/
 
-Microsoft Learn:
+**Microsoft Learn:**
 
     https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
 
@@ -55,11 +55,11 @@ Microsoft Learn:
 
     https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104
 
-Microsoft at a glance:
+**Microsoft Azure AZ-104 at a glance:**
 
     https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
 
-🚧 Reddit mentions of tricky areas to know (< 1 year posts)
+🚧 **Reddit mentions of tricky areas to know** (< 1 year posts)
 
     "MS Learn was extremely lackluster." "for the love of God, dont rely only on MS Learn."
     
@@ -71,7 +71,7 @@ Microsoft at a glance:
     
     on failing the exam "Don't rush it. Don't force yourself to retake it in two weeks. Take your time."  
 
-🚧 Reddit posts containing detailed stuff to study in both the post comments:
+🚧 **Reddit posts containing detailed stuff to study in both the post comments:**
      
     https://www.reddit.com/r/AzureCertification/comments/16xxcna/passed_104_with_927/
 
@@ -92,13 +92,13 @@ Microsoft at a glance:
     
     Tutorial Dojo helped me to practice the exam to save the time.
 
-🚧 Study tips:
+🚧 **Study tips:**
 
 Do like 1-2 hrs per day going through modules and the last few weeks before before sceduled exam go through practice exams. 
 The practice exams will help identify your weak areas for you to do further studying on. Try not to burn out yourself while studying and remember to take breaks.
 
 
-🚧 Mindmap: https://www.reddit.com/r/AzureCertification/comments/15rp8le/az104_mindmap/
+🚧 **Mindmap:** https://www.reddit.com/r/AzureCertification/comments/15rp8le/az104_mindmap/
 
 🚧 ![MindMap of AZ-104](https://example.com/path/to/image.png)
     
