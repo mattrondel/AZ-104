@@ -65,7 +65,7 @@ The Tech BlackBoard Az-104 Q & A
 
     https://esi.microsoft.com/
 
-**Microsoft Learn:**
+:fire: **Microsoft Learn:**
 
     https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
 
