@@ -39,6 +39,10 @@ John Savill's Technical Training - this is his updated training updated on Feb 1
 
     https://www.youtube.com/watch?v=0Knf9nub4-k
 
+This channel goes over a question, demonstrates in a lab environment how to accomplish what the questions asks and then answers the question. (Make sure to search for AZ-104 content as it addresses all different MSFT certs)
+
+    https://www.youtube.com/@azurewala/videos
+
 Enterprise Skills Initiative AKA ESI (use your corporte email to login, might have to also be on corporate network to use but need to verify this)
 
     https://esi.microsoft.com/
