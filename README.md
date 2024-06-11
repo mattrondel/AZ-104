@@ -90,8 +90,12 @@ Reddit mentions of tricky areas to know (< 1 year posts)
     
     Tutorial Dojo helped me to practice the exam to save the time.
 
+Study tips:
+Do like 1-2 hrs per day going through modules and the last few weeks before before sceduled exam go through practice exams. 
+The practice exams will help identify your weak areas for you to do further studying on. Try not to burn out yourself while studying and remember to take breaks.
 
-  Mindmap: https://www.reddit.com/r/AzureCertification/comments/15rp8le/az104_mindmap/
+
+Mindmap: https://www.reddit.com/r/AzureCertification/comments/15rp8le/az104_mindmap/
 
 ![MindMap of AZ-104](https://example.com/path/to/image.png)
     
