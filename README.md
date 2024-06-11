@@ -44,6 +44,11 @@ Azurewala This channel goes over a question, demonstrates in a lab environment h
 
     https://www.youtube.com/watch?v=WYscHbu4SOI&list=PLlKA5U_Yqgof3H0YWhzvarFixW9QLTr4S
 
+
+Tech with Jaspal Practice Questions with Explaination
+
+    https://www.youtube.com/watch?v=lVnPU9qm8mw&list=PLL1ih-rtU13viciDOwQXwgKtUhNyg32ZE
+
  **Free Tutorials Dojo practice exam trial** 
 
     https://portal.tutorialsdojo.com/courses/free-az-104-microsoft-azure-administrator-practice-exams-sampler/
