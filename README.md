@@ -49,6 +49,10 @@ Tech with Jaspal Practice Questions with Explaination
 
     https://www.youtube.com/watch?v=lVnPU9qm8mw&list=PLL1ih-rtU13viciDOwQXwgKtUhNyg32ZE
 
+The Tech BlackBoard Az-104 Q & A 
+
+    https://www.youtube.com/playlist?list=PL0AYtrUw-NRQVyeXD5_hpb4I0ZWokMFF-
+
  **Free Tutorials Dojo practice exam trial** 
 
     https://portal.tutorialsdojo.com/courses/free-az-104-microsoft-azure-administrator-practice-exams-sampler/
