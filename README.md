@@ -61,8 +61,6 @@ Microsoft at a glance:
 
 Reddit mentions of tricky areas to know (< 1 year posts)
 
-    Mindmap: https://www.reddit.com/r/AzureCertification/comments/15rp8le/az104_mindmap/
-
     "MS Learn was extremely lackluster." "for the love of God, dont rely only on MS Learn."
     
     Github labs: https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/
@@ -76,6 +74,10 @@ Reddit mentions of tricky areas to know (< 1 year posts)
     Lots of stuff to make sure you review:
         
         https://www.reddit.com/r/AzureCertification/comments/16xxcna/passed_104_with_927/
+        
+        https://www.reddit.com/r/AzureCertification/comments/15rp8le/az104_mindmap/
+        
+        https://www.reddit.com/r/AzureCertification/comments/12vuwu1/just_passed_az900_and_az104_in_3_months/
     
 
 "Please read the both MS Learn Materials. Looks like same, but not"
@@ -88,5 +90,9 @@ Reddit mentions of tricky areas to know (< 1 year posts)
     
     Tutorial Dojo helped me to practice the exam to save the time.
 
+
+  Mindmap: https://www.reddit.com/r/AzureCertification/comments/15rp8le/az104_mindmap/
+
+![MindMap of AZ-104](https://example.com/path/to/image.png)
     
     
