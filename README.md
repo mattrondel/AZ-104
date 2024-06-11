@@ -67,6 +67,8 @@ Reddit mentions of tricky areas to know (< 1 year posts)
 
     TD tutorials dojo practice exams are very similar to the real one
     
+    on failing the exam "Don't rush it. Don't force yourself to retake it in two weeks. Take your time."
+    
 
 "Please read the both MS Learn Materials. Looks like same, but not"
 
