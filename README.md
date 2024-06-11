@@ -34,6 +34,10 @@ Measure Up practice exams:
 
     https://wgu.udemy.com/course/70533-azure/
 
+AZ-104 Linked-in Learning (use Corp email to login)
+
+    https://www.linkedin.com/learning/paths/prepare-for-the-azure-administrator-az-104-certification-by-microsoft-press?u=2045532
+
 **Free courses:**
 
 :fire: John Savill's Technical Training - This is his updated training updated on Feb 12 2024
