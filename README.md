@@ -35,7 +35,7 @@ Scott Duffy via Udemy (same as above but free for WGU students)
 
 **Free courses:**
 
-John Savill's Technical Training - this is his updated training updated on Feb 12 2024
+👌 John Savill's Technical Training - This is his updated training updated on Feb 12 2024
 
     https://www.youtube.com/watch?v=0Knf9nub4-k
 
@@ -59,7 +59,7 @@ Microsoft at a glance:
 
     https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
 
-Reddit mentions of tricky areas to know (< 1 year posts)
+🚧 Reddit mentions of tricky areas to know (< 1 year posts)
 
     "MS Learn was extremely lackluster." "for the love of God, dont rely only on MS Learn."
     
@@ -71,7 +71,7 @@ Reddit mentions of tricky areas to know (< 1 year posts)
     
     on failing the exam "Don't rush it. Don't force yourself to retake it in two weeks. Take your time."  
 
-Reddit posts containing detailed stuff to study in both the post comments:
+🚧 Reddit posts containing detailed stuff to study in both the post comments:
      
     https://www.reddit.com/r/AzureCertification/comments/16xxcna/passed_104_with_927/
 
@@ -97,8 +97,8 @@ Do like 1-2 hrs per day going through modules and the last few weeks before befo
 The practice exams will help identify your weak areas for you to do further studying on. Try not to burn out yourself while studying and remember to take breaks.
 
 
-Mindmap: https://www.reddit.com/r/AzureCertification/comments/15rp8le/az104_mindmap/
+🚧 Mindmap: https://www.reddit.com/r/AzureCertification/comments/15rp8le/az104_mindmap/
 
-![MindMap of AZ-104](https://example.com/path/to/image.png)
+🚧 ![MindMap of AZ-104](https://example.com/path/to/image.png)
     
     
