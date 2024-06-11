@@ -34,7 +34,7 @@ Measure Up practice exams:
 
     https://wgu.udemy.com/course/70533-azure/
 
-AZ-104 Linked-in Learning (Free if you use Corp email to login)
+AZ-104 Linked-in Learning (free if you use Corp or WGU email to login)
 
     https://www.linkedin.com/learning/paths/prepare-for-the-azure-administrator-az-104-certification-by-microsoft-press?u=2045532
 
