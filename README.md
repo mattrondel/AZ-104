@@ -71,7 +71,7 @@ Reddit mentions of tricky areas to know (< 1 year posts)
     
     on failing the exam "Don't rush it. Don't force yourself to retake it in two weeks. Take your time."  
 
-Reddit posts containing detailed stuff to study in both the psot and through comments
+Reddit posts containing detailed stuff to study in both the post comments:
      
     https://www.reddit.com/r/AzureCertification/comments/16xxcna/passed_104_with_927/
 
