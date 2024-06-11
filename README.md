@@ -25,6 +25,7 @@ Measure Up practice exams:
 
     https://portal.tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/
 
+
 **Scott Duffy via Udemy**
 
     https://www.udemy.com/course/70533-azure/
@@ -42,6 +43,10 @@ Measure Up practice exams:
 Azurewala This channel goes over a question, demonstrates in a lab environment how to accomplish what the questions asks and then answers the question. (Make sure to turn up the volume to hear him)
 
     https://www.youtube.com/watch?v=WYscHbu4SOI&list=PLlKA5U_Yqgof3H0YWhzvarFixW9QLTr4S
+
+ **Free Tutorials Dojo practice exam trial** 
+
+    https://portal.tutorialsdojo.com/courses/free-az-104-microsoft-azure-administrator-practice-exams-sampler/
 
 **Enterprise Skills Initiative AKA ESI** (use your corporte email to login, might have to also be on corporate network to use but need to verify this)
 
