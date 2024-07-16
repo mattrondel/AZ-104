@@ -25,6 +25,9 @@ Measure Up practice exams:
 
     https://portal.tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/
 
+Tutorials Dojo azure cheat sheets
+
+    https://tutorialsdojo.com/microsoft-azure-cheat-sheets/
 
 **Scott Duffy via Udemy**
 
