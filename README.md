@@ -116,7 +116,7 @@ Do like 1-2 hrs per day going through modules and the last few weeks before befo
 The practice exams will help identify your weak areas for you to do further studying on. Try not to burn out yourself while studying and remember to take breaks.
 
 
-👌 Anki - a free and open-source flashcard program that uses cognitive science such as active recall testing and spaced repetition to aid the user in memorization. 
+👌 Anki - a free and open-source flashcard program that uses cognitive science such as active recall testing and spaced repetition to aid the user in memorization.  I used this to pass both CCNA exams.
 
     https://ankiweb.net/
 
