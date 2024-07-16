@@ -128,6 +128,8 @@ AZ-104 Study Images
     
     🚧 **Mindmap:** https://www.reddit.com/r/AzureCertification/comments/15rp8le/az104_mindmap/
     
-    🚧 **MindMap of AZ-104** https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Faz-104-mindmap-v0-t9nj0ehy79ib1.png%3Fwidth%3D5082%26format%3Dpng%26auto%3Dwebp%26s%3D743a5d600d69a9b8eb01119bdda80e1099d00ee7
+    🚧 **MindMap of AZ-104** 
+    
+    https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Faz-104-mindmap-v0-t9nj0ehy79ib1.png%3Fwidth%3D5082%26format%3Dpng%26auto%3Dwebp%26s%3D743a5d600d69a9b8eb01119bdda80e1099d00ee7
     
     
