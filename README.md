@@ -116,8 +116,18 @@ Do like 1-2 hrs per day going through modules and the last few weeks before befo
 The practice exams will help identify your weak areas for you to do further studying on. Try not to burn out yourself while studying and remember to take breaks.
 
 
-🚧 **Mindmap:** https://www.reddit.com/r/AzureCertification/comments/15rp8le/az104_mindmap/
+Anki - a free and open-source flashcard program that uses cognitive science such as active recall testing and spaced repetition to aid the user in memorization. 
 
-🚧 ![MindMap of AZ-104](https://example.com/path/to/image.png)
+    https://ankiweb.net/
+
+Ali Abdaal on and how active recall is the most effective study method - Youtube
+
+    https://www.youtube.com/watch?v=ukLnPbIffxE
+
+AZ-104 Study Images
+    
+    🚧 **Mindmap:** https://www.reddit.com/r/AzureCertification/comments/15rp8le/az104_mindmap/
+    
+    🚧 ![MindMap of AZ-104](https://example.com/path/to/image.png)
     
     
