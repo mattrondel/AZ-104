@@ -120,7 +120,7 @@ Anki - a free and open-source flashcard program that uses cognitive science such
 
     https://ankiweb.net/
 
-📺 **Ali Abdaal on and how active recall is the most effective study method - Youtube**
+📺 **Ali Abdaal on Evidence-based revision tips - Youtube**
 
     https://www.youtube.com/watch?v=ukLnPbIffxE
 
