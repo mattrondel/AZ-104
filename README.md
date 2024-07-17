@@ -1,4 +1,4 @@
-# AZ-104 ☁️
+# ☁️ AZ-104 ☁️
 
 (Need to confirm) Passing score is 700 max is 1000
 
