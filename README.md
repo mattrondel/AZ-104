@@ -33,7 +33,7 @@ Tutorials Dojo azure cheat sheets
 
     https://www.udemy.com/course/70533-azure/
 
-**Scott Duffy via Udemy** (same as above but free for WGU students)
+**Scott Duffy via Udemy** (same as above but free for active WGU students)
 
     https://wgu.udemy.com/course/70533-azure/
 
