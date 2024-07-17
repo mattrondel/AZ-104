@@ -127,6 +127,10 @@ The practice exams will help identify your weak areas for you to do further stud
 
     https://www.youtube.com/watch?v=ukLnPbIffxE
 
+🚧 Quizlet AZ104 🚧
+
+    https://quizlet.com/791527803/az-104-flash-cards/?funnelUUID=f595251a-598c-4eff-8213-e64cb8286eb8
+
 AZ-104 Study Images
     
 🚧 **Mindmap:** 🚧
