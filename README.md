@@ -21,7 +21,7 @@ Measure Up practice exams:
 
     https://www.measureup.com/microsoft-practice-test-az-104-microsoft-azure-administrator.html
 
-:fire: **Tutorials Dojo practice exams** "you want to be getting at least 85-95% on the TD final exam before signing up to take the exam"
+:fire: **Tutorials Dojo practice exams** "you want to be getting at least 85-95% on the TD final exam before signing up to take the exam" :fire: 
 
     https://portal.tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/
 
@@ -43,7 +43,7 @@ AZ-104 Linked-in Learning (free if you use Corp or WGU email to login)
 
 **Free courses:**
 
-:fire: John Savill's Technical Training - This is his updated training updated on Feb 12 2024
+:fire: John Savill's Technical Training - This is his updated training updated on Feb 12 2024 :fire: 
 
     https://www.youtube.com/watch?v=0Knf9nub4-k
 
@@ -68,7 +68,7 @@ The Tech BlackBoard Az-104 Q & A
 
     https://esi.microsoft.com/
 
-:fire: **Microsoft Learn:**
+:fire: **Microsoft Learn:** :fire: 
 
     https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
 
@@ -80,7 +80,7 @@ The Tech BlackBoard Az-104 Q & A
 
     https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
 
-🚧 **Reddit mentions of tricky areas to know** (< 1 year posts)
+🚧 **Reddit mentions of tricky areas to know** (< 1 year posts) 🚧
 
     "MS Learn was extremely lackluster." "for the love of God, dont rely only on MS Learn."
     
@@ -92,7 +92,7 @@ The Tech BlackBoard Az-104 Q & A
     
     on failing the exam "Don't rush it. Don't force yourself to retake it in two weeks. Take your time."  
 
-🚧 **Reddit posts containing detailed stuff to study in both the post comments:**
+🚧 **Reddit posts containing detailed stuff to study in both the post comments:** 🚧
      
     https://www.reddit.com/r/AzureCertification/comments/16xxcna/passed_104_with_927/
 
@@ -113,7 +113,7 @@ The Tech BlackBoard Az-104 Q & A
     
     Tutorial Dojo helped me to practice the exam to save the time.
 
-🚧 ***Study tips:***
+🚧 ***Study tips:*** 🚧
 
 Do like 1-2 hrs per day going through modules and the last few weeks before before sceduled exam go through practice exams. 
 The practice exams will help identify your weak areas for you to do further studying on. Try not to burn out yourself while studying and remember to take breaks.
@@ -129,11 +129,11 @@ The practice exams will help identify your weak areas for you to do further stud
 
 AZ-104 Study Images
     
-🚧 **Mindmap:** 
+🚧 **Mindmap:** 🚧
 
 https://www.reddit.com/r/AzureCertification/comments/15rp8le/az104_mindmap/
     
-🚧 **MindMap of AZ-104** 
+🚧 **MindMap of AZ-104** 🚧
 
 https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Faz-104-mindmap-v0-t9nj0ehy79ib1.png%3Fwidth%3D5082%26format%3Dpng%26auto%3Dwebp%26s%3D743a5d600d69a9b8eb01119bdda80e1099d00ee7
     
