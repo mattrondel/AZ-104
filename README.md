@@ -3,6 +3,7 @@
 (Need to confirm) Passing score is 700 max is 1000
 
 **Skills at a glance straight from Microsoft on AZ-104 AKA How the exam is weighted **
+
 _pulled from here: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104#skills-measured-as-of-october-26-2023_
 
     Manage Azure identities and governance (20–25%)
