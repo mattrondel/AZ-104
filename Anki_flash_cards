@@ -30,7 +30,7 @@ Locally redundant storage it replicates your storage account 3x within a single 
 
 Locally redundant storage (LRS) copies data 3x within a single physical location in the primary region. 
 LRS is least expensive replication option but is not recommended for applications requiring high availability.
-L is for low cost for applications requiring high availability.
+L is for low cost for not recommended for applications requiring high availability.
 
 Zone-redundant storage (ZRS) copies data across 3x Azure availability zones in the primary region. 
 Ideal for applications requiring high availability.
