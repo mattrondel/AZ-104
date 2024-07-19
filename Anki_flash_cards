@@ -5,8 +5,11 @@ what is azure blob storage used for
 Blob (Binary Large Object) Storage is used for storing large amounts of unstructured data like text or binary data
 
 When should I use BLOB storage?
-1. serve images or documents to a browser
-2. stream audio or video
-3. storre fies for  distributed access
-4. Store data for backup, DR, and archiving.
-5. Store data for analysis by an on-premises or Azure-hosted service.
+– serve images or documents to a browser
+– stream audio or video
+– Store fies for  distributed access
+– Store data for backup, DR, and archiving.
+– write to log files
+– Store data for analysis by an on-premises or Azure-hosted service.
+
+
