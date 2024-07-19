@@ -25,5 +25,21 @@ Client IP and protocol (3-tuple)
 What custom domain records types are supported by Entra ID?
 TXT and MX
 
-What is LRS
+What is LRS for Azure Storage Replication
 Locally redundant storage it replicates your storage account 3x within a single data center in the primary region
+
+Locally redundant storage (LRS) copies data 3x within a single physical location in the primary region. 
+LRS is least expensive replication option but is not recommended for applications requiring high availability.
+L is for low cost for applications requiring high availability.
+
+Zone-redundant storage (ZRS) copies data across 3x Azure availability zones in the primary region. 
+Ideal for applications requiring high availability.
+
+Geo-redundant storage (GRS) copies data 3x within a single physical location in the primary region using LRS.
+It then copies data a to a single physical location in a secondary region that is hundreds of miles away from the primary region.
+
+Geo-zone-redundant storage (GZRS) copies data across 3x Azure availability zones in the primary region using Zone-redundant storage. 
+It then copies data to a single physical location in the secondary region.
+
+ What are Azure regions?
+A geographical area in which one or more physical Azure data centers reside.
