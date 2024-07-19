@@ -21,3 +21,6 @@ What is Session persistence also known as?
 What is Session persistences two configurations types?
 Client IP (2-tuple)
 Client IP and protocol (3-tuple)
+
+What custom domain records types are supported by Entra ID?
+TXT and MX
