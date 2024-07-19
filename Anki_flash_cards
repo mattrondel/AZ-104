@@ -14,3 +14,10 @@ When should I use BLOB storage?
 
 What do you need to connect Azure Files from anywhere in the world using a URL?
 shared access signature (SAS) token
+
+What is Session persistence also known as?
+ session affinity, source IP affinity, or client IP affinity.
+
+What is Session persistences two configurations types?
+Client IP (2-tuple)
+Client IP and protocol (3-tuple)
