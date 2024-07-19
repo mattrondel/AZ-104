@@ -1,5 +1,5 @@
 What is AZ copy used for?
-Copy blobs or files (only) to or from a storage account
+cmd line utilizty to Copy blobs or files to or from a storage account
 
 what is azure blob storage used for
 Blob (Binary Large Object) Storage is used for storing large amounts of unstructured data like text or binary data
