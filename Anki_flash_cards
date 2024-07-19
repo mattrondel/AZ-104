@@ -12,4 +12,5 @@ When should I use BLOB storage?
 – write to log files
 – Store data for analysis by an on-premises or Azure-hosted service.
 
-
+What do you need to connect Azure Files from anywhere in the world using a URL?
+shared access signature (SAS) token
