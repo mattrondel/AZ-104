@@ -53,3 +53,15 @@ Allows you to create a secure connection to your virtual network from an individ
 App Service Environment (ASE) deployment
 differences between internal ILB and external
 
+What external volumes can you mount with within a container group?
+Azure file share
+secret
+emply direcotry
+cloned git repo
+
+what is a secret volume
+a secure place to store sensitive items like ssh keys similar to ansible vault
+*Secret volumes are currently restricted to Linux containers.*
+
+
+
