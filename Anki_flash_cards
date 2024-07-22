@@ -44,5 +44,12 @@ It then copies data to a single physical location in the secondary region.
  What are Azure regions?
 A geographical area in which one or more physical Azure data centers reside.
 
+what are the 5 dianostic logging types
+appication, web server, detailed, failed request and deployment
+
 What does Point-to-Site (P2S) VPN connection for?
 Allows you to create a secure connection to your virtual network from an individual client computer.
+
+App Service Environment (ASE) deployment
+differences between internal ILB and external
+
