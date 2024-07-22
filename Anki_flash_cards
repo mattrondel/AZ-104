@@ -65,3 +65,12 @@ cloned git repo*
 
 what is a secret volume
 a secure place to store sensitive items like ssh keys similar to ansible vault
+
+what are the five sections of an ARM template
+Parameters
+variables
+user-defined functions
+resources
+outputs
+
+
