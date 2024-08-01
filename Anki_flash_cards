@@ -1,3 +1,6 @@
+What is the purpose of Azure Blob Storage?
+storing massive amounts of unstructured (like text or binary) data
+
 What is AZ copy used for?
 cmd line utilizty to Copy blobs or files to or from a storage account
 
