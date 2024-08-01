@@ -79,3 +79,7 @@ a JavaScript Object Notation (JSON) file that defines the infrastructure and con
 What is Bicep?
 A Resource Manager template language that's used to declaratively deploy Azure resources.
 Bicep is a domain-specific language, which means that it's designed for a specific scenario or domain. 
+
+
+what is azure table used for?
+stores structured NoSQL data.
