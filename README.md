@@ -31,7 +31,7 @@ Tutorials Dojo Azure cheat sheets
 
     https://tutorialsdojo.com/microsoft-azure-cheat-sheets/
 
-:fire: Github labs: https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/ :fire:
+:fire: **Github labs:** https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/ :fire:
 
 **Scott Duffy via Udemy**
 
