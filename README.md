@@ -31,6 +31,8 @@ Tutorials Dojo Azure cheat sheets
 
     https://tutorialsdojo.com/microsoft-azure-cheat-sheets/
 
+:fire: Github labs: https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/ :fire:
+
 **Scott Duffy via Udemy**
 
     https://www.udemy.com/course/70533-azure/
@@ -86,8 +88,6 @@ The Tech BlackBoard Az-104 Q & A
 
     "MS Learn was extremely lackluster." "for the love of God, dont rely only on MS Learn."
     
-    Github labs: https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/
-
     "The user management questions are always worded so poorly, and some of the scenarios they present are so...hypothetical."
 
     TD tutorials dojo practice exams are very similar to the real one
