@@ -94,6 +94,8 @@ The Tech BlackBoard Az-104 Q & A
     
     on failing the exam "Don't rush it. Don't force yourself to retake it in two weeks. Take your time."  
 
+    https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
+
 🚧 **Reddit posts containing detailed stuff to study in both the post comments:** 🚧
      
     https://www.reddit.com/r/AzureCertification/comments/16xxcna/passed_104_with_927/
