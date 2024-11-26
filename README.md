@@ -96,6 +96,8 @@ The Tech BlackBoard Az-104 Q & A
 
     https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
 
+    https://learn.onboardtoazure.com/
+
 🚧 **Reddit posts containing detailed stuff to study in both the post comments:** 🚧
      
     https://www.reddit.com/r/AzureCertification/comments/16xxcna/passed_104_with_927/
