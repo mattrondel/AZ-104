@@ -25,7 +25,7 @@ Measure Up practice exams:
 
 :fire: **Tutorials Dojo practice exams** "you want to be getting at least 85-95% on the TD final exam before signing up to take the exam" :fire: 
 
-    https://portal.tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/
+[https://portal.tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/](https://portal.tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/)
 
 Tutorials Dojo Azure cheat sheets
 
@@ -49,7 +49,7 @@ AZ-104 Linked-in Learning (free if you use Corp or WGU email to login)
 
 :fire: John Savill's Technical Training - This is his updated training updated on Feb 12 2024 :fire: 
 
-    [https://www.youtube.com/watch?v=0Knf9nub4-k](https://www.youtube.com/watch?v=0Knf9nub4-k)
+[https://www.youtube.com/watch?v=0Knf9nub4-k](https://www.youtube.com/watch?v=0Knf9nub4-k)
 
 Azurewala This channel goes over a question, demonstrates in a lab environment how to accomplish what the questions asks and then answers the question. (Make sure to turn up the volume to hear him)
 
