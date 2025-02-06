@@ -1,0 +1,81 @@
+###
+hashes to split up topic
+add category like "Monitor and Maintain Azure Resources"
+this is to display the differnet topics I am weak in
+
+"keywords mentioned in the question"
+
+
+###
+
+Hence, the correct order of deployment are:
+
+1. Deploy the Azure File Sync agent to TDFileServer1
+
+2. Register TDFileServer1 with Storage Sync Service
+
+3. Create a sync group and a cloud endpoint
+
+4. Create a server endpoint
+
+###
+
+Azure Private DNS
+
+Take note that you can only link a virtual network and use the auto registration feature to 
+a private DNS zone only.
+
+###
+Implement and Manage Storage
+
+"journal file"
+
+using Azure Import/Export service
+
+ Dataset CSV File and Driveset CSV file
+
+###
+
+Monitor and Maintain Azure Resources
+
+" Azure file share "
+"Azure Blob container "
+
+read more: https://portal.tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/lessons/practice-exams-review-mode-15/quizzes/review-mode-set-2-az-104-azure-administrator/
+
+When recovering files, you can’t restore files to a previous or future operating system version. 
+For example, you can’t restore a file from a Windows Server 2016 VM to Windows Server 2012 or a Windows 8 computer. 
+You can restore files from a VM to the same server operating system, or to the compatible client operating system.
+
+####
+
+Implement and Manage Storage
+
+Take note that Azure does not overwrite any files in your sync group. Instead, it will keep both changes to files that are changed in two endpoints 
+at the same time. The most recently written change keeps the original file name.
+
+The older file (determined by LastWriteTime) has the endpoint name and the conflict number appended to the filename. 
+For server endpoints, the endpoint name is the name of the server. For cloud endpoints, the endpoint name follows this taxonomy
+
+– <FileNameWithoutExtension>-<endpointName>[-#].<ext>
+
+– For example, tutorials-FileServer1.docx
+
+
+Azure File Sync supports 100 conflict files per file. Once the maximum number of conflict files has been reached, the file will fail to sync until the number of conflict files is less than 100.
+
+####
+
+Manage Azure Identities and Governance
+
+By default, global administrators in Microsoft Entra and device owners are granted local administrator rights. 
+This configuration is a premium edition capability, and it is available through products such as Microsoft EntraPremium or the Enterprise Mobility Suite (EMS).
+Configure device settings is how you would configure this feature
+
+
+####
+
+Deploy and Manage Azure Compute Resources
+
+You can export the template of an existing virtual machine and save it in Azure Resource Manager. The exported template is composed of parameters and template JSON files.
+In custom deployment the only options that you can configure are Subscription, Resource Group, and Location.
