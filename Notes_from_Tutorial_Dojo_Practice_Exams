@@ -1,4 +1,5 @@
 ###
+Section template:
 hashes to split up topic
 add category like "Monitor and Maintain Azure Resources"
 this is to display the differnet topics I am weak in
@@ -7,6 +8,8 @@ this is to display the differnet topics I am weak in
 
 
 ###
+
+needs a topic
 
 Hence, the correct order of deployment are:
 
@@ -47,6 +50,18 @@ When recovering files, you can’t restore files to a previous or future operati
 For example, you can’t restore a file from a Windows Server 2016 VM to Windows Server 2012 or a Windows 8 computer. 
 You can restore files from a VM to the same server operating system, or to the compatible client operating system.
 
+You can’t delete a Recovery Services vault with any of the following dependencies:
+– You can’t delete a vault that contains protected data sources.
+– You can’t delete a vault that contains backup data. Once backup data is deleted, it will go into the soft-deleted state.
+– You can’t delete a vault that contains backup data in the soft-deleted state.
+– You can’t delete a vault that has registered storage accounts.
+https://www.youtube.com/watch?v=xg_TnyhK34o
+
+
+To retrieve data in the Log Analytics workspace, you need to use a Kusto Query Language (KQL). Remember that there are different types of log queries in Azure Monitor
+With search queries, you can find the specific value that you need in your table. This query searches the “TableName” table for records that contains the word “value”:
+search in (TableName) "value"
+
 ####
 
 Implement and Manage Storage
@@ -79,3 +94,19 @@ Deploy and Manage Azure Compute Resources
 
 You can export the template of an existing virtual machine and save it in Azure Resource Manager. The exported template is composed of parameters and template JSON files.
 In custom deployment the only options that you can configure are Subscription, Resource Group, and Location.
+
+Azure Custom Script Extension - You can use Custom Script Extension to download and execute scripts on Azure VMs. This extension is useful for post-deployment configuration, software installation, or any other configuration/management task. 
+Scripts can be downloaded from Azure storage or GitHub, or provided to the Azure portal at extension run-time.
+
+Web Server Logging in Azure App Service log message includes data such as the HTTP method, resource URI, client IP, client port, user agent, response code, and so on. 
+
+For web server logging, you can store the logs in a storage or file system and set the number of days the logs should be retained.
+
+Azure Load Balancer is a Layer-4 (TCP, UDP) load balancer that provides high availability by distributing incoming traffic among healthy VMs. 
+To redirect the client request to the same virtual machine, you need to add a session persistence in the load balancing rule. Session persistence specifies that traffic from a client should be handled by the same virtual machine in the backend pool for the duration of a session.
+There are three options in session persistence:
+– None – specifies that successive requests from the same client may be handled by any virtual machine.
+– Client IP – specifies that the same virtual machine will handle successive requests from the same client IP address.
+– Client IP and protocol – specifies that the same virtual machine will handle successive requests from the same client IP address and protocol combination
+
+Scaling up a virtual machine will increase its size in response to a workload. this is a preferred option if an application has tightly-coupled dependencies and thus cannot be hosted on multiple virtual machines.
