@@ -8,6 +8,7 @@ https://portal.tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-pr
 
 https://portal.tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/quizzes/section-based-deploy-and-manage-azure-compute-resources-az-104/
 
+https://tutorialsdojo.com/azure-scale-set-vs-availability-set/
 
 With Azure Backup service, you can back up on-premises machines, workloads, and Azure VMs. If you would recall, the VM in a stopped/deallocated state only stops the virtual machine. Take note that Azure Backup only takes snapshots of the VM disks. This means that even if the VM status is running or stopped, you can still create a backup as long as the disk is attached to the VM.
 
