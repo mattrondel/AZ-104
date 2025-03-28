@@ -86,6 +86,9 @@ The Tech BlackBoard Az-104 Q & A
 
     https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
 
+Other:
+Icons: https://code.benco.io/icon-collection/other/
+
 🚧 **Reddit mentions of tricky areas to know** (< 1 year posts) 🚧
 
     "MS Learn was extremely lackluster." "for the love of God, dont rely only on MS Learn."
