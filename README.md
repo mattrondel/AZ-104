@@ -8,9 +8,9 @@ _pulled from here: https://learn.microsoft.com/en-us/credentials/certifications/
 
     Manage Azure identities and governance (20–25%)
 
-    Implement and manage storage (15–20%)
-
     Deploy and manage Azure compute resources (20–25%)
+
+    Implement and manage storage (15–20%)
 
     Implement and manage virtual networking (15–20%)
 
