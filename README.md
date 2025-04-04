@@ -25,7 +25,7 @@ Measure Up practice exams:
 
 :fire: **Tutorials Dojo practice exams** "you want to be getting at least 85-95% on the TD final exam before signing up to take the exam" :fire: 
 
-    [https://portal.tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/](https://portal.tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/)
+    https://portal.tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams
 
 Tutorials Dojo Azure cheat sheets
 
