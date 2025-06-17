@@ -53,6 +53,10 @@ AZ-104 Linked-in Learning (free if you use Corp or WGU email to login)
 
 [https://www.youtube.com/watch?v=0Knf9nub4-k](https://www.youtube.com/watch?v=0Knf9nub4-k)
 
+
+[visual guide](https://youtube.com/playlist?list=PLhLKc18P9YOAW3dKZaQ2xVYg8uE1m5Lp8&si=OARuNojhluQfH8uI)
+
+
 Azurewala This channel goes over a question, demonstrates in a lab environment how to accomplish what the questions asks and then answers the question. (Make sure to turn up the volume to hear him)
 
     https://www.youtube.com/watch?v=WYscHbu4SOI&list=PLlKA5U_Yqgof3H0YWhzvarFixW9QLTr4S
