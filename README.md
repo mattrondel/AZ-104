@@ -91,6 +91,10 @@ The Tech BlackBoard Az-104 Q & A
 
     https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
 
+:fire: :fire: Scedule Exam link: :fire: :fire: 
+
+    https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
+
 Other:
 Icons: https://code.benco.io/icon-collection/other/
 
